@@ -40,8 +40,7 @@ const Navbar = () => {
             </Link>
             <Link to='/Questions' className='nav-item nav-btn'>Questions</Link>
 
-            <a href="https://github.com/shawsk04/IITG-StackOverflow" className='nav-item nav-btn' rel="noreferrer" target='_blank'>Github</a>
-            <a href="https://shawsk04.github.io/" className='nav-item nav-btn' rel="noreferrer" target='_blank'>About Developer</a>
+            <a href="https://github.com/sarthaktayal69" className='nav-item nav-btn' rel="noreferrer" target='_blank'>Github</a>
             
             <div className='nav-profile-btn'>
                 {User === null ? 
